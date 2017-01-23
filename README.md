@@ -4,6 +4,13 @@ This repository contains scripts and data files used for defining the
 Spatially Business Classification (SBC) system and for relating it to SIC and
 NAICS 2017 systems.
 
+Of the various data files below, the following are essentially identical to files available from `census.gov`. [The
+only difference is conversion from `xls` to `csv`, and re-naming.]
+* `n17_original.csv`
+* `lookup_1_sic_n07.psv`
+* `lookup_2_n07_n12.psv`
+* `lookup_3_n12_n17.psv`
+
 SIC = Standard Industrial Classification. Long-deprecated but still used byt many.
 
 NAICS = North American Industry Classification System: The modern, accepted system for classifying businesses.
