@@ -1,0 +1,444 @@
+bcid|bc1|bc2|bc3
+10-105-124|Retail|Art Dealers|Art Dealers
+10-107-133|Retail|Auto Parts|Automotive Parts and Accessories Stores
+10-107-510|Retail|Auto Parts|Tire Dealers
+10-111-142|Retail|Book Stores|Book Stores
+10-112-267|Retail|Building Materials|Hardware Stores
+10-112-274|Retail|Building Materials|Home Centers
+10-112-368|Retail|Building Materials|Other Building Material Dealers
+10-112-419|Retail|Building Materials|Paint and Wallpaper Stores
+10-113-342|Retail|Car Dealers|New Car Dealers
+10-113-522|Retail|Car Dealers|Used Car Dealers
+10-119-163|Retail|Clothing Stores|Children's Clothing Stores
+10-119-165|Retail|Clothing Stores|Clothing Accessories Stores
+10-119-226|Retail|Clothing Stores|Family Clothing Stores
+10-119-320|Retail|Clothing Stores|Men's Clothing Stores
+10-119-371|Retail|Clothing Stores|Other Clothing Stores
+10-119-539|Retail|Clothing Stores|Women's Clothing Stores
+10-127-200|Retail|Department Stores|Department Stores
+10-135-215|Retail|Electronics Stores|Electronics Stores
+10-140-239|Retail|Florists|Florists
+10-142-253|Retail|Furniture Stores|Furniture Stores
+10-145-257|Retail|Gasoline Stations|Gasoline Stations with Convenience Stores
+10-145-382|Retail|Gasoline Stations|Other Gasoline Stations
+10-148-385|Retail|General Merchandise Stores|Other General Merchandise Stores
+10-148-528|Retail|General Merchandise Stores|Warehouse Clubs and Supercenters
+10-149-262|Retail|Gift Stores|Gift Stores
+10-151-189|Retail|Grocery Stores|Convenience Stores
+10-151-498|Retail|Grocery Stores|Supermarkets and Other Grocery Stores
+10-153-191|Retail|Health and Wellness|Cosmetics and Beauty Supply Stores
+10-153-243|Retail|Health and Wellness|Food Supplement Stores
+10-153-362|Retail|Health and Wellness|Optical Goods Stores
+10-153-387|Retail|Health and Wellness|Other Health and Personal Care Stores
+10-154-238|Retail|Home Furnishings Stores|Floor Covering Stores
+10-154-388|Retail|Home Furnishings Stores|Other Home Furnishings Stores
+10-154-536|Retail|Home Furnishings Stores|Window Treatment Stores
+10-156-279|Retail|Household Appliance Stores|Household Appliance Stores
+10-165-294|Retail|Jewelry Stores|Jewelry Stores
+10-168-256|Retail|Lawn and Garden Equipment Stores|Garden and Farm Supply Stores
+10-168-416|Retail|Lawn and Garden Equipment Stores|Outdoor Power Equipment Stores
+10-169-306|Retail|Liquor Stores|Liquor Stores
+10-176-272|Retail|Miscellaneous Retail|Hobby, Toy, and Game Stores
+10-176-310|Retail|Miscellaneous Retail|Luggage and Leather Goods Stores
+10-176-314|Retail|Miscellaneous Retail|Manufactured Home Dealers
+10-176-337|Retail|Miscellaneous Retail|Musical Instrument and Supplies Stores
+10-176-397|Retail|Miscellaneous Retail|Other Miscellaneous Store Retailers
+10-176-482|Retail|Miscellaneous Retail|Sewing Supply Stores
+10-176-493|Retail|Miscellaneous Retail|Sporting Goods Stores
+10-176-513|Retail|Miscellaneous Retail|Tobacco Stores
+10-176-523|Retail|Miscellaneous Retail|Used Merchandise Stores
+10-182-343|Retail|News Stands|News Stands
+10-183-204|Retail|Nonstore Retailers|Direct Sellers
+10-183-214|Retail|Nonstore Retailers|Electronic and Mail-Order Shopping
+10-183-250|Retail|Nonstore Retailers|Fuel Dealers
+10-183-525|Retail|Nonstore Retailers|Vending Machine Operators
+10-184-350|Retail|Office Supply Stores|Office Supply Stores
+10-189-141|Retail|Other Motor Vehicle Dealers|Boat Dealers
+10-189-333|Retail|Other Motor Vehicle Dealers|Motorcycle, ATV, and Other Motor Vehicle Dealers
+10-189-461|Retail|Other Motor Vehicle Dealers|Recreational Vehicle Dealers
+10-195-426|Retail|Pet and Pet Supplies Stores|Pet and Pet Supplies Stores
+10-197-430|Retail|Pharmacies and Drug Stores|Pharmacies and Drug Stores
+10-208-484|Retail|Shoe Stores|Shoe Stores
+10-214-135|Retail|Specialty Food Stores|Baked Goods Stores
+10-214-184|Retail|Specialty Food Stores|Confectionery and Nut Stores
+10-214-233|Retail|Specialty Food Stores|Fish and Seafood Markets
+10-214-249|Retail|Specialty Food Stores|Fruit and Vegetable Markets
+10-214-316|Retail|Specialty Food Stores|Meat Markets
+10-214-409|Retail|Specialty Food Stores|Other Specialty Food Stores
+11-128-206|Food and Drink|Drinking Places|Drinking Places
+11-131-152|Food and Drink|Eating Places|Cafeterias and Buffets
+11-131-168|Food and Drink|Eating Places|Coffee Shops and Snacks
+11-131-251|Food and Drink|Eating Places|Full-Service Restaurants
+11-131-304|Food and Drink|Eating Places|Limited-Service Restaurants
+11-213-156|Food and Drink|Special Food Services|Caterers
+11-213-242|Food and Drink|Special Food Services|Food Service Contractors
+11-213-327|Food and Drink|Special Food Services|Mobile Food Services
+12-108-128|Consumer Services|Automotive Repair|Automotive Body, Paint, and Interior Repair
+12-108-130|Consumer Services|Automotive Repair|Automotive Exhaust System Repair
+12-108-131|Consumer Services|Automotive Repair|Automotive Glass Replacement Shops
+12-108-132|Consumer Services|Automotive Repair|Automotive Oil Change and Lubrication Shops
+12-108-134|Consumer Services|Automotive Repair|Automotive Transmission Repair
+12-108-258|Consumer Services|Automotive Repair|General Automotive Repair
+12-108-365|Consumer Services|Automotive Repair|Other Automotive Mechanical and Electrical Repair
+12-108-366|Consumer Services|Automotive Repair|Other Automotive Repair
+12-110-140|Consumer Services|Boarding Houses and Dormitories|Boarding Houses and Dormitories
+12-114-153|Consumer Services|Car Washes|Car Washes
+12-126-158|Consumer Services|Death Care Services|Cemeteries and Crematories
+12-126-252|Consumer Services|Death Care Services|Funeral Homes and Funeral Services
+12-130-169|Consumer Services|Drycleaning and Laundry|Coin-Operated Laundries
+12-130-208|Consumer Services|Drycleaning and Laundry|Drycleaning and Laundry Services
+12-130-284|Consumer Services|Drycleaning and Laundry|Industrial Launderers
+12-130-305|Consumer Services|Drycleaning and Laundry|Linen Supply
+12-134-175|Consumer Services|Electronic Equipment Repair|Communication Equipment Repair
+12-134-181|Consumer Services|Electronic Equipment Repair|Computer and Office Machine Repair
+12-134-187|Consumer Services|Electronic Equipment Repair|Consumer Electronics Repair
+12-134-376|Consumer Services|Electronic Equipment Repair|Other Electronic Equipment Repair
+12-160-285|Consumer Services|Industrial Machinery Repair|Industrial Machinery Repair
+12-190-359|Consumer Services|Other Personal Services|One-Hour Photofinishing
+12-190-401|Consumer Services|Other Personal Services|Other Personal Services
+12-190-422|Consumer Services|Other Personal Services|Parking Lots and Garages
+12-190-425|Consumer Services|Other Personal Services|Pet Care Services
+12-190-431|Consumer Services|Other Personal Services|Photofinishing Laboratories
+12-193-136|Consumer Services|Personal Care Services|Barber Shops
+12-193-137|Consumer Services|Personal Care Services|Beauty Salons
+12-193-202|Consumer Services|Personal Care Services|Diet and Weight Reducing Centers
+12-193-338|Consumer Services|Personal Care Services|Nail Salons
+12-193-400|Consumer Services|Personal Care Services|Other Personal Care Services
+12-194-120|Consumer Services|Personal Goods Repair|Appliance Repair
+12-194-245|Consumer Services|Personal Goods Repair|Footwear and Leather Goods Repair
+12-194-277|Consumer Services|Personal Goods Repair|Home and Garden Equipment Repair
+12-194-402|Consumer Services|Personal Goods Repair|Other Personal and Household Goods Repair
+12-194-470|Consumer Services|Personal Goods Repair|Reupholstery and Furniture Repair
+12-202-454|Consumer Services|RV Parks and Recreational Camps|RV Parks and Campgrounds
+12-202-462|Consumer Services|RV Parks and Recreational Camps|Recreational and Vacation Camps
+12-219-138|Consumer Services|Traveler Accommodation|Bed-and-Breakfast Inns
+12-219-154|Consumer Services|Traveler Accommodation|Casino Hotels
+12-219-278|Consumer Services|Traveler Accommodation|Hotels and Motels
+12-219-414|Consumer Services|Traveler Accommodation|Other Traveler Accommodation
+13-103-117|Arts and Entertainment|Amusement Parks and Arcades|Amusement Arcades
+13-103-118|Arts and Entertainment|Amusement Parks and Arcades|Amusement and Theme Parks
+13-106-125|Arts and Entertainment|Arts Agents and Managers|Arts Agents and Managers
+13-144-155|Arts and Entertainment|Gambling Industries|Casinos
+13-144-381|Arts and Entertainment|Gambling Industries|Other Gambling Industries
+13-159-283|Arts and Entertainment|Independent Artists|Independent Artists
+13-180-271|Arts and Entertainment|Museums and Parks|Historical Sites
+13-180-334|Arts and Entertainment|Museums and Parks|Museums
+13-180-341|Arts and Entertainment|Museums and Parks|Nature Parks
+13-180-542|Arts and Entertainment|Museums and Parks|Zoos and Botanical Gardens
+13-186-144|Arts and Entertainment|Other Amusement and Recreation|Bowling
+13-186-236|Arts and Entertainment|Other Amusement and Recreation|Fitness and Recreational Sports
+13-186-263|Arts and Entertainment|Other Amusement and Recreation|Golf Courses and Country Clubs
+13-186-315|Arts and Entertainment|Other Amusement and Recreation|Marinas
+13-186-363|Arts and Entertainment|Other Amusement and Recreation|Other Amusement and Recreation
+13-186-485|Arts and Entertainment|Other Amusement and Recreation|Skiing Facilities
+13-192-198|Arts and Entertainment|Performing Arts Companies|Dance Companies
+13-192-336|Arts and Entertainment|Performing Arts Companies|Musical Groups and Artists
+13-192-399|Arts and Entertainment|Performing Arts Companies|Other Performing Arts Companies
+13-192-508|Arts and Entertainment|Performing Arts Companies|Theater Companies and Dinner Theaters
+13-201-225|Arts and Entertainment|Promoters|Facility Event Promoters
+13-201-344|Arts and Entertainment|Promoters|Non-facility Event Promoters
+13-215-410|Arts and Entertainment|Spectator Sports|Other Spectator Sports
+13-215-455|Arts and Entertainment|Spectator Sports|Racetracks
+13-215-495|Arts and Entertainment|Spectator Sports|Sports Teams and Clubs
+14-147-115|Health Care|General Health Care|Ambulance Services
+14-147-227|Health Care|General Health Care|Family Planning Centers
+14-147-276|Health Care|General Health Care|Home Health Care Services
+14-147-318|Health Care|General Health Care|Medical and Diagnostic Laboratories
+14-147-351|Health Care|General Health Care|Offices of Chiropractors
+14-147-352|Health Care|General Health Care|Offices of Dentists
+14-147-353|Health Care|General Health Care|Offices of Mental Health Practitioners
+14-147-354|Health Care|General Health Care|Offices of Optometrists
+14-147-355|Health Care|General Health Care|Offices of Other Health Practitioners
+14-147-356|Health Care|General Health Care|Offices of Physicians
+14-147-384|Health Care|General Health Care|Other General Health Care
+14-147-398|Health Care|General Health Care|Other Outpatient Care Centers
+14-147-417|Health Care|General Health Care|Outpatient Mental Health and Substance Abuse Centers
+14-155-260|Health Care|Hospitals|General Medical and Surgical Hospitals
+14-155-451|Health Care|Hospitals|Psychiatric and Substance Abuse Hospitals
+14-155-491|Health Care|Hospitals|Specialty Hospitals
+14-206-201|Health Care|Residential Care Facilities|Developmental Disability Facilities
+14-206-210|Health Care|Residential Care Facilities|Elderly Care Facilities
+14-206-322|Health Care|Residential Care Facilities|Mental Health and Substance Abuse Facilities
+14-206-347|Health Care|Residential Care Facilities|Nursing Care Facilities
+14-206-405|Health Care|Residential Care Facilities|Other Residential Care Facilities
+15-120-170|Education|Colleges and Professional Schools|Colleges and Professional Schools
+15-133-209|Education|Educational Support Services|Educational Support Services
+15-136-216|Education|Elementary and Secondary Schools|Elementary and Secondary Schools
+15-162-126|Education|Instructional Schools|Automobile Driving Schools
+15-162-220|Education|Instructional Schools|Exam Preparation and Tutoring
+15-162-231|Education|Instructional Schools|Fine Arts Schools
+15-162-298|Education|Instructional Schools|Language Schools
+15-162-396|Education|Instructional Schools|Other Miscellaneous Schools and Instruction
+15-162-496|Education|Instructional Schools|Sports and Recreation Instruction
+15-166-296|Education|Junior Colleges|Junior Colleges
+15-222-121|Education|Vocational Schools|Apprenticeship Training
+15-222-149|Education|Vocational Schools|Business and Secretarial Schools
+15-222-179|Education|Vocational Schools|Computer Training
+15-222-192|Education|Vocational Schools|Cosmetology and Barber Schools
+15-222-237|Education|Vocational Schools|Flight Training
+15-222-412|Education|Vocational Schools|Other Technical and Trade Schools
+15-222-449|Education|Vocational Schools|Professional Development Training
+16-161-151|Professional|Information|Cable and Other Subscription Programming
+16-161-199|Professional|Information|Data Processing and Related Services
+16-161-390|Professional|Information|Other Information Services
+16-161-413|Professional|Information|Other Telecommunications
+16-161-453|Professional|Information|Publishers
+16-161-456|Professional|Information|Radio and Television Broadcasting
+16-161-473|Professional|Information|Satellite Telecommunications
+16-161-487|Professional|Information|Software Publishers
+16-161-505|Professional|Information|Telecommunications Carriers
+16-178-328|Professional|Motion Picture and Video Industries|Motion Picture and Video Distribution
+16-178-329|Professional|Motion Picture and Video Industries|Motion Picture and Video Exhibition
+16-178-330|Professional|Motion Picture and Video Industries|Motion Picture and Video Production
+16-178-442|Professional|Motion Picture and Video Industries|Postproduction Services and Other Motion Picture and Video Industries
+16-199-100|Professional|Professional Services|Accounting and Payroll Services
+16-199-113|Professional|Professional Services|Advertising and Public Relations
+16-199-123|Professional|Professional Services|Architectural, Engineering, and Related Services
+16-199-178|Professional|Professional Services|Computer Systems Design and Related Services
+16-199-301|Professional|Professional Services|Legal Services
+16-199-404|Professional|Professional Services|Other Professional Services
+16-199-476|Professional|Professional Services|Scientific Research and Development Services
+16-199-490|Professional|Professional Services|Specialized Design Services
+16-199-504|Professional|Professional Services|Technical Consulting Services
+16-203-101|Professional|Real Estate|Activities Related to Real Estate
+16-203-458|Professional|Real Estate|Real Estate Agents and Brokers
+16-203-459|Professional|Real Estate|Real Estate Rental and Leasing
+16-205-129|Professional|Rental and Leasing|Automotive Equipment Rental and Leasing
+16-205-172|Professional|Rental and Leasing|Commercial Equipment Rental and Leasing
+16-205-188|Professional|Rental and Leasing|Consumer Goods Rental
+16-205-261|Professional|Rental and Leasing|General Rental Centers
+16-205-469|Professional|Rental and Leasing|Rental and Leasing
+16-211-335|Professional|Sound Recording Industries|Music Publishers
+16-211-408|Professional|Sound Recording Industries|Other Sound Recording Industries
+16-211-460|Professional|Sound Recording Industries|Record Production and Distribution
+16-211-488|Professional|Sound Recording Industries|Sound Recording Studios
+17-101-289|Finance and Insurance|Agencies and Brokerages|Insurance Agencies and Brokerages
+17-101-392|Finance and Insurance|Agencies and Brokerages|Other Insurance Related Activities
+17-109-171|Finance and Insurance|Banking and Savings|Commercial Banking
+17-109-196|Finance and Insurance|Banking and Savings|Credit Unions
+17-109-367|Finance and Insurance|Banking and Savings|Other Banking and Savings
+17-109-474|Finance and Insurance|Banking and Savings|Savings Institutions
+17-115-159|Finance and Insurance|Central Bank|Central Bank
+17-124-195|Finance and Insurance|Credit Services|Credit Card Issuing
+17-124-230|Finance and Insurance|Credit Services|Financial Transactions
+17-124-308|Finance and Insurance|Credit Services|Loan Brokers
+17-124-374|Finance and Insurance|Credit Services|Other Credit Services
+17-124-472|Finance and Insurance|Credit Services|Sales Financing
+17-163-203|Finance and Insurance|Insurance Carriers|Direct Insurance Carriers
+17-163-303|Finance and Insurance|Insurance Carriers|Life, Health, and Medical Insurance
+17-163-467|Finance and Insurance|Insurance Carriers|Reinsurance Carriers
+17-164-269|Finance and Insurance|Insurance and Employee Benefit Funds|Health and Welfare Funds
+17-164-391|Finance and Insurance|Insurance and Employee Benefit Funds|Other Insurance Funds
+17-164-424|Finance and Insurance|Insurance and Employee Benefit Funds|Pension Funds
+17-187-292|Finance and Insurance|Other Financial Activities|Investment Advice
+17-187-325|Finance and Insurance|Other Financial Activities|Miscellaneous Intermediation
+17-187-379|Finance and Insurance|Other Financial Activities|Other Financial Activities
+17-187-440|Finance and Insurance|Other Financial Activities|Portfolio Management
+17-188-360|Finance and Insurance|Other Investment Services|Open-End Investment Funds
+17-188-380|Finance and Insurance|Other Investment Services|Other Financial Vehicles
+17-188-521|Finance and Insurance|Other Investment Services|Trusts, Estates, and Agency Accounts
+17-207-173|Finance and Insurance|Securities and Commodities|Commodity Contracts Brokerage
+17-207-174|Finance and Insurance|Securities and Commodities|Commodity Contracts Dealing
+17-207-293|Finance and Insurance|Securities and Commodities|Investment Banking and Securities Dealing
+17-207-477|Finance and Insurance|Securities and Commodities|Securities Brokerage
+17-207-478|Finance and Insurance|Securities and Commodities|Securities and Commodities
+18-100-148|Administration|Administrative Support|Business Support Services
+18-100-218|Administration|Administrative Support|Employment Services
+18-100-224|Administration|Administrative Support|Facilities Support Services
+18-100-291|Administration|Administrative Support|Investigation and Security Services
+18-100-348|Administration|Administrative Support|Office Administrative Services
+18-100-411|Administration|Administrative Support|Other Support Services
+18-100-481|Administration|Administrative Support|Services to Buildings and Dwellings
+18-100-519|Administration|Administrative Support|Travel Arrangement and Reservation Services
+18-172-313|Administration|Management of Companies|Management of Companies
+18-223-415|Administration|Waste Management|Other Waste Management Services
+18-223-531|Administration|Waste Management|Waste Collection
+18-223-532|Administration|Waste Management|Waste Treatment and Disposal
+19-132-102|Government|Economic Programs|Administration of Communications and Utilities
+19-132-105|Government|Economic Programs|Administration of General Economic Programs
+19-132-109|Government|Economic Programs|Administration of Transportation Programs
+19-132-465|Government|Economic Programs|Regulation of Agricultural Marketing and Commodities
+19-132-466|Government|Economic Programs|Regulation of Miscellaneous Commercial Sectors
+19-137-103|Government|Environmental Quality Programs|Administration of Conservation Programs
+19-137-112|Government|Environmental Quality Programs|Administration of Waste Management Programs
+19-146-116|Government|General Government|American Native Tribal Governments
+19-146-221|Government|General Government|Executive Offices
+19-146-222|Government|General Government|Executive and Legislative Offices, Combined
+19-146-302|Government|General Government|Legislative Bodies
+19-146-383|Government|General Government|Other General Government Support
+19-146-452|Government|General Government|Public Finance Activities
+19-158-104|Government|Human Resource Programs|Administration of Education Programs
+19-158-107|Government|Human Resource Programs|Administration of Human Resource Programs
+19-158-108|Government|Human Resource Programs|Administration of Public Health Programs
+19-158-111|Government|Human Resource Programs|Administration of Veterans' Affairs
+19-167-190|Government|Justice and Public Order|Correctional Institutions
+19-167-194|Government|Justice and Public Order|Courts
+19-167-232|Government|Justice and Public Order|Fire Protection
+19-167-300|Government|Justice and Public Order|Legal Counsel and Prosecution
+19-167-393|Government|Justice and Public Order|Other Justice and Public Order Activities
+19-167-423|Government|Justice and Public Order|Parole Offices and Probation Offices
+19-167-438|Government|Justice and Public Order|Police Protection
+19-181-290|Government|National Security and International Affairs|International Affairs
+19-181-339|Government|National Security and International Affairs|National Security
+19-212-489|Government|Space Research and Technology|Space Research and Technology
+19-220-106|Government|Urban Planning and Community Development|Administration of Housing Programs
+19-220-110|Government|Urban Planning and Community Development|Administration of Urban Planning and Community Development
+20-116-265|Civic Organizations|Charitable Services|Grantmaking Foundations
+20-116-369|Civic Organizations|Charitable Services|Other Charitable Services
+20-116-527|Civic Organizations|Charitable Services|Voluntary Health Organizations
+20-118-164|Civic Organizations|Civic and Social Organizations|Civic and Social Organizations
+20-198-448|Civic Organizations|Private Households|Private Households
+20-200-147|Civic Organizations|Professional and Political Organizations|Business Associations
+20-200-297|Civic Organizations|Professional and Political Organizations|Labor Unions and Similar Organizations
+20-200-406|Civic Organizations|Professional and Political Organizations|Other Similar Organizations
+20-200-439|Civic Organizations|Professional and Political Organizations|Political Organizations
+20-200-450|Civic Organizations|Professional and Political Organizations|Professional Organizations
+20-204-468|Civic Organizations|Religious Organizations|Religious Organizations
+20-209-219|Civic Organizations|Social Advocacy|Environment, Conservation and Wildlife Organizations
+20-209-281|Civic Organizations|Social Advocacy|Human Rights Organizations
+20-209-407|Civic Organizations|Social Advocacy|Other Social Advocacy Organizations
+20-210-161|Civic Organizations|Social Assistance|Child Day Care Services
+20-210-162|Civic Organizations|Social Assistance|Child and Youth Services
+20-210-176|Civic Organizations|Social Assistance|Community Food Services
+20-210-177|Civic Organizations|Social Assistance|Community Housing Services
+20-210-217|Civic Organizations|Social Assistance|Emergency and Other Relief Services
+20-210-389|Civic Organizations|Social Assistance|Other Individual and Family Services
+20-210-480|Civic Organizations|Social Assistance|Services for the Elderly and Disabled
+20-210-526|Civic Organizations|Social Assistance|Vocational Rehabilitation Services
+21-102-139|Wholesale|Alcoholic Beverage Wholesalers|Beer and Ale Wholesalers
+21-102-537|Wholesale|Alcoholic Beverage Wholesalers|Wine and Distilled Alcoholic Beverage Wholesalers
+21-104-244|Wholesale|Apparel Wholesalers|Footwear Wholesalers
+21-104-321|Wholesale|Apparel Wholesalers|Men's and Boys' Clothing and Furnishings Wholesalers
+21-104-433|Wholesale|Apparel Wholesalers|Piece Goods, Notions, and Other Dry Goods Wholesalers
+21-104-540|Wholesale|Apparel Wholesalers|Women's, Children's, and Infants' Clothing and Accessories Wholesalers
+21-117-370|Wholesale|Chemical Products Wholesalers|Other Chemical and Allied Products Wholesalers
+21-117-435|Wholesale|Chemical Products Wholesalers|Plastics Materials and Basic Forms and Shapes Wholesalers
+21-121-182|Wholesale|Commercial Equipment Wholesalers|Computer and Software Wholesalers
+21-121-319|Wholesale|Commercial Equipment Wholesalers|Medical, Dental, and Hospital Equipment Wholesalers
+21-121-349|Wholesale|Commercial Equipment Wholesalers|Office Equipment Wholesalers
+21-121-361|Wholesale|Commercial Equipment Wholesalers|Ophthalmic Goods Wholesalers
+21-121-372|Wholesale|Commercial Equipment Wholesalers|Other Commercial Equipment Wholesalers
+21-121-403|Wholesale|Commercial Equipment Wholesalers|Other Professional Equipment Wholesalers
+21-121-432|Wholesale|Commercial Equipment Wholesalers|Photographic Equipment Wholesalers
+21-123-146|Wholesale|Construction Materials Wholesalers|Brick, Stone, and Related Construction Material Wholesalers
+21-123-311|Wholesale|Construction Materials Wholesalers|Lumber, Plywood, Millwork, and Wood Panel Wholesalers
+21-123-373|Wholesale|Construction Materials Wholesalers|Other Construction Material Wholesalers
+21-123-471|Wholesale|Construction Materials Wholesalers|Roofing, Siding, and Insulation Material Wholesalers
+21-129-207|Wholesale|Drugs and Druggists' Sundries Wholesalers|Drugs and Druggists' Sundries Wholesalers
+21-138-264|Wholesale|Farm Product Raw Material Wholesalers|Grain and Field Bean Wholesalers
+21-138-307|Wholesale|Farm Product Raw Material Wholesalers|Livestock Wholesalers
+21-138-378|Wholesale|Farm Product Raw Material Wholesalers|Other Farm Product Raw Material Wholesalers
+21-143-254|Wholesale|Furniture and Home Furnishing Wholesalers|Furniture Wholesalers
+21-143-275|Wholesale|Furniture and Home Furnishing Wholesalers|Home Furnishing Wholesalers
+21-150-183|Wholesale|Grocery Product Wholesalers|Confectionery Wholesalers
+21-150-197|Wholesale|Grocery Product Wholesalers|Dairy Product Wholesalers
+21-150-234|Wholesale|Grocery Product Wholesalers|Fish and Seafood Wholesalers
+21-150-247|Wholesale|Grocery Product Wholesalers|Fresh Fruit and Vegetable Wholesalers
+21-150-259|Wholesale|Grocery Product Wholesalers|General Line Grocery Wholesalers
+21-150-317|Wholesale|Grocery Product Wholesalers|Meat and Meat Product Wholesalers
+21-150-386|Wholesale|Grocery Product Wholesalers|Other Grocery and Related Products Wholesalers
+21-150-418|Wholesale|Grocery Product Wholesalers|Packaged Frozen Food Wholesalers
+21-150-444|Wholesale|Grocery Product Wholesalers|Poultry and Poultry Product Wholesalers
+21-152-268|Wholesale|Hardware Wholesalers|Hardware Wholesalers
+21-152-437|Wholesale|Hardware Wholesalers|Plumbing and Heating Equipment Wholesalers
+21-152-464|Wholesale|Hardware Wholesalers|Refrigeration Equipment Wholesalers
+21-152-530|Wholesale|Hardware Wholesalers|Warm Air Heating and Air-Conditioning Equipment Wholesalers
+21-157-212|Wholesale|Household Appliance Wholesalers|Electrical Equipment Wholesalers
+21-157-280|Wholesale|Household Appliance Wholesalers|Household Appliance Wholesalers
+21-157-377|Wholesale|Household Appliance Wholesalers|Other Electronic Parts and Equipment Wholesalers
+21-171-185|Wholesale|Machinery Wholesalers|Construction and Mining Machinery and Equipment Wholesalers
+21-171-229|Wholesale|Machinery Wholesalers|Farm and Garden Machinery and Equipment Wholesalers
+21-171-286|Wholesale|Machinery Wholesalers|Industrial Machinery and Equipment Wholesalers
+21-171-287|Wholesale|Machinery Wholesalers|Industrial Supplies Wholesalers
+21-171-479|Wholesale|Machinery Wholesalers|Service Establishment Equipment Wholesalers
+21-171-518|Wholesale|Machinery Wholesalers|Transportation Equipment Wholesalers
+21-174-167|Wholesale|Metal and Mineral Wholesalers|Coal and Other Mineral and Ore Wholesalers
+21-174-324|Wholesale|Metal and Mineral Wholesalers|Metal Service Centers and Other Metal Wholesalers
+21-177-143|Wholesale|Miscellaneous Wholesalers|Book, Periodical, and Newspaper Wholesalers
+21-177-228|Wholesale|Miscellaneous Wholesalers|Farm Supplies Wholesalers
+21-177-240|Wholesale|Miscellaneous Wholesalers|Flower, Nursery Stock, and Florists' Supplies Wholesalers
+21-177-295|Wholesale|Miscellaneous Wholesalers|Jewelry, Watch, Precious Stone, and Precious Metal Wholesalers
+21-177-394|Wholesale|Miscellaneous Wholesalers|Other Miscellaneous Durable Goods Wholesalers
+21-177-395|Wholesale|Miscellaneous Wholesalers|Other Miscellaneous Nondurable Goods Wholesalers
+21-177-420|Wholesale|Miscellaneous Wholesalers|Paint, Varnish, and Supplies Wholesalers
+21-177-463|Wholesale|Miscellaneous Wholesalers|Recyclable Material Wholesalers
+21-177-494|Wholesale|Miscellaneous Wholesalers|Sporting and Recreational Goods and Supplies Wholesalers
+21-177-514|Wholesale|Miscellaneous Wholesalers|Tobacco and Tobacco Product Wholesalers
+21-177-515|Wholesale|Miscellaneous Wholesalers|Toy and Hobby Goods and Supplies Wholesalers
+21-179-127|Wholesale|Motor Vehicles and Supplies Wholesalers|Automobile and Other Motor Vehicle Wholesalers
+21-179-331|Wholesale|Motor Vehicles and Supplies Wholesalers|Motor Vehicle Parts Wholesalers
+21-179-332|Wholesale|Motor Vehicles and Supplies Wholesalers|Motor Vehicle Supplies and New Parts Wholesalers
+21-179-511|Wholesale|Motor Vehicles and Supplies Wholesalers|Tire and Tube Wholesalers
+21-191-288|Wholesale|Paper Products Wholesalers|Industrial and Personal Service Paper Wholesalers
+21-191-447|Wholesale|Paper Products Wholesalers|Printing and Writing Paper Wholesalers
+21-191-497|Wholesale|Paper Products Wholesalers|Stationery and Office Supplies Wholesalers
+21-196-427|Wholesale|Petroleum Products Wholesalers|Petroleum Bulk Stations and Terminals
+21-196-429|Wholesale|Petroleum Products Wholesalers|Petroleum and Petroleum Products Wholesalers
+21-224-150|Wholesale|Wholesale Agents and Brokers|Business to Business Electronic Markets
+21-224-535|Wholesale|Wholesale Agents and Brokers|Wholesale Trade Agents and Brokers
+22-122-186|Industry|Construction|Construction of Buildings
+22-122-270|Industry|Construction|Heavy and Civil Engineering Construction
+22-122-492|Industry|Construction|Specialty Trade Contractors
+22-173-119|Industry|Manufacturing|Apparel Manufacturing
+22-173-145|Industry|Manufacturing|Breweries
+22-173-160|Industry|Manufacturing|Chemical Manufacturing
+22-173-180|Industry|Manufacturing|Computer and Electronic Product Manufacturing
+22-173-205|Industry|Manufacturing|Distilleries
+22-173-213|Industry|Manufacturing|Electrical Equipment and Appliance Manufacturing
+22-173-223|Industry|Manufacturing|Fabricated Metal Product Manufacturing
+22-173-241|Industry|Manufacturing|Food Manufacturing
+22-173-255|Industry|Manufacturing|Furniture and Related Product Manufacturing
+22-173-299|Industry|Manufacturing|Leather and Allied Product Manufacturing
+22-173-312|Industry|Manufacturing|Machinery Manufacturing
+22-173-326|Industry|Manufacturing|Miscellaneous Manufacturing
+22-173-346|Industry|Manufacturing|Nonmetallic Mineral Product Manufacturing
+22-173-421|Industry|Manufacturing|Paper Manufacturing
+22-173-428|Industry|Manufacturing|Petroleum and Coal Products Manufacturing
+22-173-436|Industry|Manufacturing|Plastics and Rubber Products Manufacturing
+22-173-445|Industry|Manufacturing|Primary Metal Manufacturing
+22-173-446|Industry|Manufacturing|Printing and Related Support Activities
+22-173-486|Industry|Manufacturing|Soft Drink and Ice Manufacturing
+22-173-506|Industry|Manufacturing|Textile Mills
+22-173-507|Industry|Manufacturing|Textile Product Mills
+22-173-512|Industry|Manufacturing|Tobacco Manufacturing
+22-173-517|Industry|Manufacturing|Transportation Equipment Manufacturing
+22-173-538|Industry|Manufacturing|Wineries
+22-173-541|Industry|Manufacturing|Wood Product Manufacturing
+22-218-114|Industry|Transportation and Warehousing|Air Transportation
+22-218-193|Industry|Transportation and Warehousing|Couriers and Messengers
+22-218-434|Industry|Transportation and Warehousing|Pipeline Transportation
+22-218-441|Industry|Transportation and Warehousing|Postal Service
+22-218-457|Industry|Transportation and Warehousing|Rail Transportation
+22-218-475|Industry|Transportation and Warehousing|Scenic and Sightseeing Transportation
+22-218-503|Industry|Transportation and Warehousing|Support Activities for Transportation
+22-218-516|Industry|Transportation and Warehousing|Transit and Ground Passenger Transportation
+22-218-520|Industry|Transportation and Warehousing|Truck Transportation
+22-218-529|Industry|Transportation and Warehousing|Warehousing and Storage
+22-218-533|Industry|Transportation and Warehousing|Water Transportation
+22-221-211|Industry|Utilities|Electric Power Generation, Transmission and Distribution
+22-221-340|Industry|Utilities|Natural Gas Distribution
+22-221-534|Industry|Utilities|Water, Sewage and Other Systems
+23-125-248|Agriculture and Mining|Crop Production|Fruit and Tree Nut Farming
+23-125-266|Agriculture and Mining|Crop Production|Greenhouse, Nursery, and Floriculture Production
+23-125-358|Agriculture and Mining|Crop Production|Oilseed and Grain Farming
+23-125-375|Agriculture and Mining|Crop Production|Other Crop Farming
+23-125-524|Agriculture and Mining|Crop Production|Vegetable and Melon Farming
+23-139-235|Agriculture and Mining|Fishing, Hunting and Trapping|Fishing
+23-139-282|Agriculture and Mining|Fishing, Hunting and Trapping|Hunting and Trapping
+23-141-246|Agriculture and Mining|Forestry and Logging|Forest Nurseries and Gathering of Forest Products
+23-141-309|Agriculture and Mining|Forestry and Logging|Logging
+23-141-509|Agriculture and Mining|Forestry and Logging|Timber Tract Operations
+23-170-122|Agriculture and Mining|Livestock and Aquaculture|Aquaculture
+23-170-157|Agriculture and Mining|Livestock and Aquaculture|Cattle Ranching and Farming
+23-170-273|Agriculture and Mining|Livestock and Aquaculture|Hog and Pig Farming
+23-170-364|Agriculture and Mining|Livestock and Aquaculture|Other Animal Production
+23-170-443|Agriculture and Mining|Livestock and Aquaculture|Poultry and Egg Production
+23-170-483|Agriculture and Mining|Livestock and Aquaculture|Sheep and Goat Farming
+23-175-166|Agriculture and Mining|Mining|Coal Mining
+23-175-323|Agriculture and Mining|Mining|Metal Ore Mining
+23-175-345|Agriculture and Mining|Mining|Nonmetallic Mineral Mining and Quarrying
+23-185-357|Agriculture and Mining|Oil and Gas Extraction|Oil and Gas Extraction
+23-216-502|Agriculture and Mining|Support Activities for Mining|Support Activities for Mining
+23-217-499|Agriculture and Mining|Support for Agriculture|Support Activities for Animal Production
+23-217-500|Agriculture and Mining|Support for Agriculture|Support Activities for Crop Production
+23-217-501|Agriculture and Mining|Support for Agriculture|Support Activities for Forestry
