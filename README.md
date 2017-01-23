@@ -4,6 +4,10 @@ This repository contains scripts and data files used for defining the
 Spatially Business Classification (SBC) system and for relating it to SIC and
 NAICS 2017 systems.
 
+There are two distinct groups of files / scripts in this directory. 
+
+## Group 1: NAICS 2017 to SBC mapping
+
 Input files:
 * `n17_original.csv`: The original file defining the NAICS 2017 codes
 * `n17_flat.csv`: A flattened version of `n17_original.csv`
